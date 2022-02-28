@@ -1,0 +1,11 @@
+<suite name ="post-load-module">
+    <test name = "new-loads-2">
+        <parameter name = "mobilenumber" value ="9000400000"/>
+        <parameter name = "otp" value ="123456"/>
+        <parameter name = "pickup" value ="Goa"/>
+        <parameter name = "dropoff" value ="Bengaluru"/>
+        <classes>
+            <class name ='com.newloads.tests.NewPostLoadTest'/>
+        </classes>
+    </test>
+</suite>
