@@ -1,10 +1,10 @@
 # NumadicAssessment
 Simple Selenium Automation framework
 
-Maven project build
-Slenium dirver
-Test Ng framework
-Java 
+#Maven project build
+#Selenium Web driver
+#Test Ng framework
+#Java 
 
 Unzip the folder, which contains the src code, main, java test folders, chromedriver 98, testng.xml, pom.xml.
 
